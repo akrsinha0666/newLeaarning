@@ -1,4 +1,4 @@
-# newLeaarning
+# newLeaarningl
 This is my first Git Repository.
 <br>
-author -Abhishek kumar sinha
+Author -Abhishek kumar sinha(Tester)
